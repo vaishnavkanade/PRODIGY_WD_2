@@ -6,8 +6,7 @@ Web Development Internship at Prodigy InfoTech.
 This project emphasizes precision timing, smooth user interactions, and a glassmorphism-inspired UI to deliver a professional and engaging web experience.
 
 
-## 🚀 Live Demo 🔗 https://vaishnav-kanade.github.io/PRODIGY_WD_02---Stopwatch-Web-Application/
-
+## 🚀 Live Demo 🔗http://127.0.0.2:5500/index.html
 ✨ Key Features
 
 ⏱️ Precision Timing
